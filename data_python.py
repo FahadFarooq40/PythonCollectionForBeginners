@@ -2,7 +2,7 @@ a = 19          # Integer
 b = 3.2         # Float (Note: 03.2 is interpreted as 3.2)
 c = "Muhammad fahad khan"  # String
 d = True        # Boolean
-e = None        # NoneType
+e = None        # NoneTypes
 
 
 result1 = a > b   # True
