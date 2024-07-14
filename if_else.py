@@ -1,8 +1,8 @@
 a = 200
 b = 33
 if b > a:
-  print("b is greater than a")
+  print("B is greater than a")
 elif a == b:
-  print("a and b are equal")
+  print("A and b are equal")
 else:
-  print("a is greater than b")
+  print("A is greater than b")
